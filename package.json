@@ -1,0 +1,14 @@
+{
+  "name": "explore-node-packages",
+  "version": "1.0.0",
+  "description": "Explore the node packages for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohd Aaqib Hamdule",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  }
+}
